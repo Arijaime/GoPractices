@@ -1,1 +1,3 @@
 # GoPractices
+
+Random GO stataments
