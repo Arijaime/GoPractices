@@ -13,7 +13,7 @@ func main() {
 
 	sueldo = sueldo - calculate(sueldo)
 
-	fmt.Println(sueldo)
+	fmt.Printf("%-12.2f", sueldo)
 }
 
 /*	Func that calculate the taxes 	*/
